@@ -1,0 +1,69 @@
+{
+    "Consoles": 
+    [
+       {
+            "Id": "1", 
+            "nombreConsola" : "Play Station 1",
+            "descripcionGeneral": "Consola Primera Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 1",
+            "imagenModal" : "PlayStation.png", 
+            "EstiloConsola" : "1"
+       },
+       {
+            "Id": "2", 
+            "nombreConsola" : "Play Station 2",
+            "descripcionGeneral": "Consola Segunda Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 2",
+            "imagenModal" : "PlayStation.png", 
+            "EstiloConsola" : "1"
+        },
+        {
+            "Id": "3", 
+            "nombreConsola" : "Play Station 3",
+            "descripcionGeneral": "Consola Tercera Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 3",
+            "imagenModal" : "PlayStation.png", 
+            "EstiloConsola" : "1"
+         },      
+         {
+            "Id": "4", 
+            "nombreConsola" : "Play Station 4",
+            "descripcionGeneral": "Consola Cuarta Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 4",
+            "imagenModal" : "PlayStation.png", 
+            "EstiloConsola" : "1"
+         },
+         {
+            "Id": "5", 
+            "nombreConsola" : "Play Station 5",
+            "descripcionGeneral": "Consola Quinta Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 5",
+            "imagenModal" : "PlayStation.png", 
+            "EstiloConsola" : "1"
+         },      
+         {
+            "Id": "6", 
+            "nombreConsola" : "Xbox Serie X",
+            "descripcionGeneral": "Consola versión X",
+            "detalleConsola" : "Todas las especificaciones de la consola versión x",
+            "imagenModal" : "XboxSerieX.jpg", 
+            "EstiloConsola" : "2"
+         },
+         {
+            "Id": "7", 
+            "nombreConsola" : "Xbox Serie XS",
+            "descripcionGeneral": "Consola versión XS",
+            "detalleConsola" : "Todas las especificaciones de la consola versión XS",
+            "imagenModal" : "XboxSerieX.jpg", 
+            "EstiloConsola" : "2"
+         }, 
+		 {
+            "Id": "8", 
+            "nombreConsola" : "Nintendo Switch",
+            "descripcionGeneral": "Consola Nintendo Switch",
+            "detalleConsola" : "Todas las especificaciones de la consola nintendo switch",
+            "imagenModal" : "NintendoSwitch.jpg", 
+            "EstiloConsola" : "3"
+         } 			 
+    ]  
+  }

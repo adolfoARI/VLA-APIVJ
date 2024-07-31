@@ -1,0 +1,55 @@
+{
+    "VideoJuegos": 
+    [
+       {
+            "idVideoJuego": "1",
+            "nombre": "Juego 1",
+            "IdConsola" : "1"
+       },
+       {
+            "idVideoJuego": "2",
+            "nombre": "Juego 2",
+            "IdConsola" : "1"
+        },
+        {
+            "idVideoJuego": "3",
+            "nombre": "Juego 3",
+            "IdConsola" : "2"
+       },
+       {
+            "idVideoJuego": "4",
+            "nombre": "Juego 4",
+            "IdConsola" : "2"
+       },
+       {
+            "idVideoJuego": "5",
+            "nombre": "Juego 5",
+            "IdConsola" : "3"
+       },       
+       {
+            "idVideoJuego": "6",
+            "nombre": "Juego 6",
+            "IdConsola" : "3"
+       },       
+       {
+            "idVideoJuego": "7",
+            "nombre": "Juego 7",
+            "IdConsola" : "4"
+        },       
+        {
+            "idVideoJuego": "8",
+            "nombre": "Juego 8",
+            "IdConsola" : "4"
+        },
+        {
+            "idVideoJuego": "9",
+            "nombre": "Juego 9",
+            "IdConsola" : "5"
+        },       
+        {
+            "idVideoJuego": "10",
+            "nombre": "Juego 10",
+            "IdConsola" : "5"
+        }
+    ]  
+  }
