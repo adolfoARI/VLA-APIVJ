@@ -19,8 +19,8 @@ app.use("/api/route", RouterLogin);
 app.use("/api/route", RouterConsole);
 app.use("/api/route", RouterVideojuegos);
 
-app.get("/", (req,res) =>{
-  res.send("Hola mundo");
+app.get("/",(req, res) =>{
+  res.send("Hello world");
 })
 
 app.listen(puerto, () => {
